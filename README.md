@@ -24,3 +24,17 @@ This is a website for searching ads, where the user can input their search crite
 ![Screenshot (2396)](https://user-images.githubusercontent.com/101388992/233826375-f761c624-41b3-4455-aac4-4f0f1033c55b.png)
  
 ![Screenshot (2395)](https://user-images.githubusercontent.com/101388992/233826379-fc603f52-3af2-46c0-b28f-aeb949d77cc2.png)
+
+ <h1>Tech Stack</h1>
+ <li>Express</li>
+ <li>MongoDB</li>
+ <li>Mongoose</li>
+ <li>dotenv</li> 
+ <li>cors</li>
+ <li>MVC</li> 
+ <li>Reactjs</li>  
+ <li>Chakra-ui</li>
+ <li>Axios</li>
+ 
+  <h1>Author</h1>
+ # Aamir Khan
