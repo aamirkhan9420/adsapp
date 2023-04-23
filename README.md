@@ -4,9 +4,11 @@ This is a website for searching ads, where the user can input their search crite
 <h1>Features<h1>
  <li>It shows the results on input of user in search bar</li>
  <li>Fully responsive</li>
+ <li>Lazy loading for images</li>
 
   <h1>Search page</h1>
   <li>Type in search bar</li>
+  
  <li>Images show the results for different input</li>
 
   
