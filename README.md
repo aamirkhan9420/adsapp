@@ -15,3 +15,12 @@ This is a website for searching ads, where the user can input their search crite
  ![Screenshot (2393)](https://user-images.githubusercontent.com/101388992/233826269-0e396048-86ff-4bbe-89c3-0c0fbe42bc18.png)
  
 ![Screenshot (2394)](https://user-images.githubusercontent.com/101388992/233826272-37d013b9-747f-4d45-9c04-cb7f66241121.png)
+ 
+ <h2>Following images shows the responsiveness for different screen sizes</h2>
+ 
+![Screenshot (2397)](https://user-images.githubusercontent.com/101388992/233826365-f158834a-eaa0-44e9-86be-7ddc5c84f90a.png)
+ 
+ 
+![Screenshot (2396)](https://user-images.githubusercontent.com/101388992/233826375-f761c624-41b3-4455-aac4-4f0f1033c55b.png)
+ 
+![Screenshot (2395)](https://user-images.githubusercontent.com/101388992/233826379-fc603f52-3af2-46c0-b28f-aeb949d77cc2.png)
